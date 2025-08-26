@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card {
+  box-shadow: 5px 5px 20px black;
+  width: 70%;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+}
+
+.open .number {
+  color: green;
+  font-weight: 900;
+}
+
+.open .title {
+  color: green;
+  font-weight: 900;
+}
+
+.open .icon {
+  color: green;
+  font-weight: 900;
+}
